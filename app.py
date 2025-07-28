@@ -21,7 +21,7 @@ def add_bg(image_file):
         """
         st.markdown(bg_img_style, unsafe_allow_html=True)
 
-r
+
 
 
 # ==== Title ====
