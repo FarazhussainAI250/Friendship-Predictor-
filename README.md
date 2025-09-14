@@ -1,4 +1,7 @@
-<img width="1901" height="922" alt="frienship" src="https://github.com/user-attachments/assets/7f237b43-9939-4093-9329-9766ea7953e7" />
+
+<img width="1600" height="745" alt="image" src="https://github.com/user-attachments/assets/3e833f5f-b4c0-47e2-afd7-b899a43afbc9" />
+<img width="1600" height="750" alt="image" src="https://github.com/user-attachments/assets/9aa941bd-46e4-4c35-a25f-b7384b284932" />
+<img width="1600" height="716" alt="image" src="https://github.com/user-attachments/assets/2f829dbc-ea62-455e-b65b-15915a05f957" />
 
 
 # 💘 Friendship Predictor
