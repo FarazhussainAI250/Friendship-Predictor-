@@ -72,9 +72,9 @@ The app will open in your default browser (usually at `http://localhost:8501/`).
 - Save prediction history for logged-in users
 - Share prediction result as a card
 
-## 🧾 License
+## 🧾 live link
 
-This project is open-source and available under the MIT License.
+https://2brifqxjacxd7dstauavcy.streamlit.app/
 
 ## 🙋 Contact
 
